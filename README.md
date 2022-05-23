@@ -12,4 +12,4 @@ Now I'm working at Baidu Ltd as a web frontend developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 [![VitoBeijing's github stats](https://github-readme-stats.vercel.app/api?username=VitoBeijing)](https://github.com/anuraghazra/github-readme-stats)
-[![VitoBeijing's] github achievement](https://github-profile-trophy.vercel.app/?username=VitoBeijing)
+[![VitoBeijing's github achievement](https://github-profile-trophy.vercel.app/?username=VitoBeijing)](https://github.com/anuraghazra/github-profile-trophy)
