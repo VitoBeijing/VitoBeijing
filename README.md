@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Vito👋
+
+Now I'm working at Baidu Ltd as a web frontend developer.
 
 掘金：[ssh](https://juejin.cn/user/1943592291273480) / 知乎：[ssh](https://www.zhihu.com/people/han-xiao-25-85) / LeetCode：[ssh](https://leetcode.cn/u/vito_china/)
 
