@@ -2,7 +2,7 @@
 
 Now I'm working at Baidu Ltd as a web frontend developer.
 
-掘金：[ssh](https://juejin.cn/user/1943592291273480) / 知乎：[ssh](https://www.zhihu.com/people/han-xiao-25-85) / LeetCode：[ssh](https://leetcode.cn/u/vito_china/)
+掘金：[Vit_](https://juejin.cn/user/1943592291273480) / 知乎：[Vito](https://www.zhihu.com/people/han-xiao-25-85) / LeetCode：[Vito](https://leetcode.cn/u/vito_china/)
 
 **Languages and Tools:**  
 
